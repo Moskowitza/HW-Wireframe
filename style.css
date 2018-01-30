@@ -1,0 +1,17 @@
+body{
+    Background: #777;
+    Content: #ebebeb;
+    body: 960px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+}
+header{}
+nav{}
+footer{}
+section{
+    section: 495px;
+}
+article{}
+.clear{}
+h1{}
+p{}
